@@ -49,20 +49,3 @@ Open any of the Jupyter notebooks to explore the implementations:
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or additional features.
 
-## License
-
-[Specify your license here, e.g., MIT, Apache 2.0]
-
-## Contact
-
-For questions or feedback, please contact [your email or contact information]
-
----
-
-Note: This is a template README. You may want to customize it with:
-- Your specific project details
-- More detailed installation instructions
-- Usage examples
-- Roadmap or future work
-- Proper licensing information
-- Accurate contact information
