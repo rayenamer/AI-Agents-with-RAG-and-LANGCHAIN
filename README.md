@@ -35,14 +35,6 @@ This repository contains implementations and experiments with AI Agents using Re
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
-3. Install required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
    ```
 
 ## Usage
